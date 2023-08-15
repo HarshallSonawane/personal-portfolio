@@ -4,7 +4,7 @@ Welcome to my portfolio website repository! This project showcases my skills, pr
 
 ## Demo
 
-Check out the live portfolio website: [https://www.yourportfolio.com](https://www.yourportfolio.com)
+Check out the live portfolio website: [https://harshalsonawane-portfolio.netlify.app/](https://harshalsonawane-portfolio.netlify.app/)
 
 ## Features
 
