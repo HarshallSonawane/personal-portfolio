@@ -4,6 +4,7 @@ import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import leetcode from "../assets/img/leetcode.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
+import iconsgithub from "../assets/img/iconsgithub.svg";
 import { HashLink } from "react-router-hash-link";
 import { BrowserRouter as Router } from "react-router-dom";
 
@@ -81,6 +82,9 @@ export const NavBar = () => {
                 </a>
                 <a href="https://leetcode.com/HarshalSonawane/" target="_blank">
                   <img src={leetcode} alt="Icon" />
+                </a>
+                <a href="https://github.com/HarshallSonawane" target="_blank">
+                  <img src={iconsgithub} alt="Icon" />
                 </a>
                 <a
                   href="https://instagram.com/_harshal.__?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
