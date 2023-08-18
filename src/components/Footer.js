@@ -19,7 +19,7 @@ export const Footer = () => {
                 target="_blank"
               >
                 <img src={navIcon1} alt="Icon" />
-              </a>
+              </a> 
               <a href="https://leetcode.com/HarshalSonawane/" target="_blank">
                 <img src={leetcode} alt="Icon" />
               </a>
